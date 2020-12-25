@@ -6,7 +6,7 @@ An online educational website where you can learn fluent Japanese and have acces
 
 ## The Background Behind This Project :open_book:
 
-This was my very first project and I wanted to be creative in it. So the idea popped right into my head: An online educational website where you can learn fluent Japanese :crossed_flags: I wanted the website to look very animated. :paintbrush:
+This was my very first project and I wanted to be creative in it. So the idea popped right into my head: An online educational website where you can learn fluent Japanese. I wanted the website to look very animated. :paintbrush: :blush:
 
 ## What I learned :brain:
 
