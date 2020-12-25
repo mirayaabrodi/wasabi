@@ -1,0 +1,17 @@
+# Wasabi | わさび :jp:
+
+An online educational website where you can learn fluent Japanese and have access to it at all times :tada:
+
+&nbsp;
+
+## The Background Behind This Project :open_book:
+
+This was my very first project and I wanted to be creative in it. So the idea popped right into my head: An online educational website where you can learn fluent Japanese :crossed_flags: I wanted the website to look very animated. :paintbrush:
+
+## What I learned :brain:
+
+- How to create HTML pages and how to create links between them
+- How to create a `div` and style the content inside of it
+- How To Add a Favicon to Your Website with HTML
+- Heavily focused on the `float` properties
+- little knowledge of the `transition` property
