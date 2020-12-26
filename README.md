@@ -14,4 +14,4 @@ This was my very first project and I wanted to be creative in it. So the idea po
 - How to create a `div` and style the content inside of it
 - How to add a `Favicon` to your website with HTML
 - Heavily focused on the `float` properties
-- little knowledge of the `transition` property
+- Little knowledge of the `transition` property
